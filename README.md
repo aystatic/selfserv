@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/aystatic/selfserv/master/assets/logo_text_color.svg" alt="selfserv">
+    <img src="https://raw.githubusercontent.com/aystatic/selfserv/master/assets/logo.svg" alt="selfserv">
 </p>
 <p align="center">
     self-hosted sideloading
